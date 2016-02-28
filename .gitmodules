@@ -1,0 +1,4 @@
+[submodule "themes/alex"]
+	path = themes/alex
+	url = https://github.com/denglj/hexo-theme-alex.git
+	branch = custom
