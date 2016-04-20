@@ -84,6 +84,8 @@ deploy:
   type: git
   repo: https://github.com/denglj/denglj.github.io.git
   branch: master
+  name: denglj
+  email: dengliangju@gmail.com
 
 disqus_shortname: aju
 
