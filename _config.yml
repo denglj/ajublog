@@ -82,8 +82,9 @@ theme: alex
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/denglj/denglj.github.io.git
-  branch: master
+  repo: 
+    coding: https://git.coding.net/denglj/denglj.git,coding-pages
+    github: https://github.com/denglj/denglj.github.io.git,master
   name: denglj
   email: dengliangju@gmail.com
 
